@@ -9,6 +9,7 @@ public class Git_Demo {
 
         System.out.println("IDEA与Git整合");
         System.out.println("IDEA整合Git提交");
+       System.out.println("GitHub上填写代码");
 
     }
 }
