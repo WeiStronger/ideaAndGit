@@ -8,6 +8,7 @@ public class Git_Demo {
     public static void main(String[] args) {
 
         System.out.println("IDEA与Git整合");
+        System.out.println("IDEA整合Git提交");
 
     }
 }
